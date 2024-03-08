@@ -1,0 +1,34 @@
+# Our developers:
+ - they don't know how to write code
+ - they don't know how to write tests
+ - they don't know how to write documentation
+ - they don't know how to write commit messages
+ - they don't know how to write release notes
+ - they don't know how to write a README
+ - they don't know how to write a CHANGELOG
+ - they don't know how to write a CONTRIBUTING.md
+ - they don't know how to write a CODE_OF_CONDUCT.md
+ - they don't know how to write a SECURITY.md
+ - they don't know how to write a LICENSE
+ - they don't know how to write a .gitignore
+ - they don't know how to write a .npmignore
+ - they don't know how to write a .travis.yml
+ - they don't know how to write a .editorconfig
+ - they don't know how to write a .eslintrc
+ - they don't know how to write a .prettierrc
+ - they don't know how to write a .github/ISSUE_TEMPLATE
+ - they don't know how to write a .github/PULL_REQUEST_TEMPLATE
+ - they don't know how to write a .github/FUNDING.yml
+ - they don't know how to write a .github/CODEOWNERS
+ - they don't know how to write a .github/ACTIONS.yml
+ - they don't know how to write a .github/dependabot.yml
+ - they don't know how to write a .github/stale.yml
+ - they don't know how to write a .github/CONTRIBUTING.md
+ - they don't know how to write a .github/SECURITY.md
+ - they don't know how to write a .github/SUPPORT.md
+ - they don't know how to write a .github/ISSUE_TEMPLATE/bug_report.md
+ - they don't know how to write a .github/ISSUE_TEMPLATE/feature_request.md
+ - they don't know how to write a .github/ISSUE_TEMPLATE/custom.md
+ - they don't know how to write a .github/PULL_REQUEST_TEMPLATE.md
+ - they don't know how to write a .github/PULL_REQUEST_TEMPLATE/feature.md
+ - they don't know how to write a .github/PULL_REQUEST_TEMPLATE/bug.md
